@@ -17,10 +17,10 @@ This flexibility and user-centric design make the project truly versatile and ac
 
 ## Author:️ [Archisman Karmakar](https://www.github.com/ArchismanKarmakar)
 
-### How it looks in Desktop?
+### Desktop Looks
 ![Desktop Look](https://raw.githubusercontent.com/ArchismanKarmakar/Facebook-Phishing-page-php/main/testing-srt/304934372-11c63039-096d-44f3-8cc4-fb5a59af46cc.png)
 
-### How it looks in Mobile devices?
+### Mobile Devices Looks
 ![Mobile Look](https://raw.githubusercontent.com/ArchismanKarmakar/Facebook-Phishing-page-php/main/testing-srt/304934780-ad5313d6-fbdc-47a6-8640-47917ad772e9.png)
 
 ## Installation : Linux
