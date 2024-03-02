@@ -85,7 +85,7 @@ If you're a Windows user, navigate to the small box located in the footer, adjac
 
 ## ⚠️⚠️ DISCLAIMER!!! ⚠️⚠️
 
-Hacking is illegal, This is made for educational purpose only. I shall not not be responsible for any kind of mis-use of this tool or any nuisance created with this tool. Please check the regulations of your country, target and ISP before using this tool.
+Hacking is illegal! This project is only made for educational purpose only. I shall not not be responsible for any kind of mis-use of this tool or any nuisance created with this tool. Please check the regulations of your country, target and ISP before using this tool.
 
 
 
