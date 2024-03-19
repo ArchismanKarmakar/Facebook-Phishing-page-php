@@ -6,7 +6,7 @@
 
 ## ⚠️⚠️ DISCLAIMER!!! ⚠️⚠️
 
-Hacking is illegal! This project is only made for educational purpose only. I shall not not be responsible for any kind of mis-use of this tool or any nuisance created with this tool. Please check the regulations of your country, target and ISP before using this tool.
+Hacking is illegal! `This project is only made for educational purpose only.` I shall not not be responsible for any kind of mis-use of this tool or any nuisance created with this tool. Please check the regulations of your country, target and ISP before using this tool.
 
 ## Linux, Windows, Termux Supported
 This project boasts impressive platform independence, meaning it can run seamlessly across various operating systems. Whether you prefer the flexibility of Linux distributions like Kali, Ubuntu, or Parrot, the familiarity of Windows 10, 11, or 8, or the elegance of macOS, this project adapts to your preferred environment.
